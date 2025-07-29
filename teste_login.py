@@ -4,7 +4,7 @@ import time
 
 driver = webdriver.Chrome()
 
-driver.get("file:///C:/Users/julia_pavlick/Downloads/teste_de_sistemas/login.html")   
+driver.get("file:///C:/Users/julia_pavlick/Documents/GitHub/teste_de_sistemas/login.html")   
    
 
 time.sleep(1)
